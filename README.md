@@ -65,4 +65,4 @@ Os exercícios abordam **HTML semântico, CSS básico, listas, formulários, Gri
 ## 🚀 Como Visualizar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/schevini/listaExercicios03.git
